@@ -129,7 +129,7 @@ class PetShopPOS:
                       
     # โหลดรูปภาพสินค้าจากไฟล์และเก็บไว้ในตัวแปร    
     def load_images(self):
-        self.image_meo = self.load_image("10.png")
+        self.image_meo = self.load_image("31.png")
         self.image_pla_krapong = self.load_image("2.png")
         self.image_melon_seeds = self.load_image("3.png")
         self.image_raw_food = self.load_image("5.png")
